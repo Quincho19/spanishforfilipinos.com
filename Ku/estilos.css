@@ -30,6 +30,11 @@ li{
     font-size: 1.25em;
 }
 
+#hero button a{
+    text-decoration: none;
+    color: white;
+}
+
 button{
     font-size: 1.5em;
     font-weight: bold;
